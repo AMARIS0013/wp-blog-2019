@@ -23,10 +23,13 @@
 define( 'DB_NAME', 'wp-blog-2019' );
 
 /** MySQL database username */
-define( 'DB_USER', 'admin' );
+define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '03a4765c6ac29b7520cb491b6f7461aac054d4fb5012d3b5' );
+define( 'DB_PASSWORD', '' );
+
+/** MySQL database password 
+define( 'DB_PASSWORD', '03a4765c6ac29b7520cb491b6f7461aac054d4fb5012d3b5' ); */
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
